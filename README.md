@@ -1,4 +1,4 @@
-# ![Banner](https://raw.githubusercontent.com/ErwinRivera/ErwinRivera/main/banner.png)
+# ![Banner](https://raw.githubusercontent.com/DebugDr/erwinrivera/main/1.png)
 
 ### 👨‍💻 Sobre mí
 
