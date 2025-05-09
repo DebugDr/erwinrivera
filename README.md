@@ -39,6 +39,7 @@ Apasionado por resolver problemas reales a través de la ciencia de datos, la au
 
 ### 📫 Contacto
 
-- ✉️ erwin.rivera@email.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/TULINKAQUI)  
-- 🧠 Actualmente abierto a oportunidades como Data Scientist | Data Analyst | Automatización
+- ✉️ erwin.rivt@gmail.com  
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/TULINKAQUI](https://www.linkedin.com/in/erwin-carlos-rivera-torres-30376353/))
+
+  🧠 Actualmente abierto a oportunidades como Data Scientist | Data Analyst | Automatización
